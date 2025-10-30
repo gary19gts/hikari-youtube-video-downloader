@@ -113,20 +113,31 @@ The application features a modern two-column layout:
 - Action buttons (Download, Open Folder, Diagnostics)
 - Quick links (Update Libraries, Credits)
 
-## ⚠️ Legal Notice
-
-This software is for **personal and educational use only**. Please:
-- Respect YouTube's Terms of Service
-- Respect copyright laws
-- Only download content you have rights to
-- Support content creators
 
 ## 💝 Support Development
 
-If you find Hikari useful, consider supporting its development:
-- ☕ [Buy me a coffee on Ko-fi](https://ko-fi.com/gary19gts)
+### Thank you for using **Hikari Youtube Video Downloader**!
 
-Thank you for your support! ❤️
+**Made with ❤️ by Gary19gts**
+
+---
+
+If Hikari has been helpful to you, please consider supporting its development:
+
+### ☕ Buy me a coffee on Ko-fi
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Development-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gary19gts)
+
+**→ [https://ko-fi.com/gary19gts](https://ko-fi.com/gary19gts)**
+
+---
+
+✨ **Even the smallest donation can bring a big light during these tough times.**  
+**Even $1 can help more than you think** 😀🙏
+
+---
+
+### Thank you so much for standing with me! ✨
 
 ## 📄 License
 
@@ -173,9 +184,17 @@ All third-party licenses are compatible with both AGPL-3.0 and commercial use.
 - GitHub: [@Gary19gts](https://github.com/Gary19gts)
 - For commercial licensing inquiries, contact through GitHub
 
+## ⚠️ Legal Notice
+
+This software is for **personal and educational use only**. Please:
+- Respect YouTube's Terms of Service
+- Respect copyright laws
+- Only download content you have rights to
+- Support content creators
+
 ## 🔄 Version History
 
-### v1.2 (Current)
+### v1.3 (Current)
 - Complete UI redesign with modern two-column layout
 - Improved user experience
 - Better visual feedback
@@ -198,3 +217,4 @@ For issues, suggestions, or contributions, please open an issue on the repositor
 **© 2025 by Gary19gts - v1.2**
 
 *Made with ❤️ for the YouTube community*
+
