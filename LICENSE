@@ -1,0 +1,93 @@
+DUAL LICENSE
+
+Hikari Youtube Video Downloader
+Copyright (C) 2025 Gary19gts
+
+This software is dual-licensed under the following terms:
+
+================================================================================
+OPTION 1: GNU AFFERO GENERAL PUBLIC LICENSE Version 3 (AGPL-3.0)
+================================================================================
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+Full AGPL-3.0 license text: https://www.gnu.org/licenses/agpl-3.0.txt
+
+================================================================================
+OPTION 2: COMMERCIAL LICENSE
+================================================================================
+
+For commercial use without the obligations of AGPL-3.0, you must obtain
+a commercial license from the copyright holder.
+
+Commercial licenses allow you to:
+- Use the software in proprietary/closed-source applications
+- Modify the software without releasing source code
+- Distribute the software without AGPL-3.0 obligations
+- Remove attribution requirements (if agreed)
+
+To obtain a commercial license, contact:
+- Author: Gary19gts
+- GitHub: https://github.com/Gary19gts
+- Email: [Contact through GitHub]
+
+================================================================================
+CHOOSING A LICENSE
+================================================================================
+
+You may choose either:
+1. Use under AGPL-3.0 terms (free, open source, copyleft)
+2. Purchase a commercial license (proprietary use allowed)
+
+You cannot use this software under both licenses simultaneously.
+You must comply with the terms of whichever license you choose.
+
+================================================================================
+THIRD-PARTY LICENSES
+================================================================================
+
+This software uses the following third-party libraries:
+
+1. yt-dlp - Unlicense (Public Domain)
+   https://github.com/yt-dlp/yt-dlp
+
+2. pytube - MIT License
+   https://github.com/pytube/pytube
+
+3. customtkinter - MIT License
+   https://github.com/TomSchimansky/CustomTkinter
+
+4. Pillow - HPND License
+   https://python-pillow.org/
+
+5. requests - Apache License 2.0
+   https://requests.readthedocs.io/
+
+All third-party licenses are compatible with both AGPL-3.0 and commercial use.
+See respective projects for full license texts.
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement.
+
+Users are responsible for complying with YouTube's Terms of Service and
+applicable copyright laws when using this software.
+
+================================================================================
+
+For questions about licensing, contact Gary19gts through GitHub.
